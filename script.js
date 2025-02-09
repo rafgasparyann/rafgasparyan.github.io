@@ -1,1 +1,3 @@
-console.log('Happy developing ✨')
+document.addEventListener("DOMContentLoaded", function () {
+    console.log("Portfolio site loaded!");
+});
