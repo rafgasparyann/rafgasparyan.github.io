@@ -1457,3 +1457,8 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+#logo {
+  width: 15%;
+  height: 15%;
+}
